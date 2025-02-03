@@ -4,3 +4,7 @@ Initially, we thought of making an circular arcade game that was like, light bul
 The whole game was modified as 5 light bulbs will glow randomly if a person is able to guess the two correct he/she wins. 
 This all we made under IETE society of TIET, Aryan Batra my fellow mate accompanied me in this project. and Sambhav Mehta our senior he saved us at the end by giving us the idea to modify the project in this way! This all was presented in the Society Fair 2024. 
 Did soldering for the first time.
+
+
+![Lucky Draw Wheel](back.jpg)
+
