@@ -1,4 +1,4 @@
-# lucky_spin_wheel
+# Lucky Spin Wheel
 Initially, we thought of making an circular arcade game that was like, light bulbs would glow one by one by in order and if a person is successful in stopping at different color one led bulb using pushbutton then he/she wins, but we failed in making it as we were not able to sink pushbutton with the rest of the setup.
  
 The whole game was modified as 5 light bulbs will glow randomly if a person is able to guess the two correct he/she wins. 
